@@ -1,4 +1,3 @@
-# README
 
 # TeleTect
 
@@ -74,8 +73,7 @@ To deploy an Android application, you must first build the web-level project thr
     - KoBERT: Locate the trained model file (teletect_kobert_train.pt) to the following directory: `/2t_backend/teletect/detection/kobert_detection/KoBERTModel/model`. You can acquire the model file through the following methods:
         - Method 1: Run `train_kobert_detection.py` on the local machine.
         - Method 2: Download our pre-trained model file from the following URL and locate it in the model directory.
-            
-            [teletect_kobert_train.pt](README%20c13a602c73954d028ad69a4c1faa90d1/teletect_kobert_train.pt)
+            [https://link.geonhui.com/gdsc/sc2024/detection-model-file](https://link.geonhui.com/gdsc/sc2024/detection-model-file)
             
     - Vertex AI/Gemini: No further actions are necessary if the application credentials setup is complete.
 5. Set up the environment variable (`.env`) based on the template file (`.env.template`).

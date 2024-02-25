@@ -1,0 +1,57 @@
+{
+    "feed": {
+      "title": "\"보이스피싱\" - Google News",
+      "link": "https://news.google.com/search?q=%EB%B3%B4%EC%9D%B4%EC%8A%A4%ED%94%BC%EC%8B%B1&hl=en-US&gl=US&ceid=US:en",
+      "description": "Google News"
+    },
+    "entries": [
+      {
+        "title": "“이자 캐시백 한도 소진 임박!” 정부 지원 가장한 보이스피싱 기승 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZWNvbm9teS9lY29ub215X2dlbmVyYWwvMjAyNC8wMi8xNS9DNVNTVEtXRVk1QlhKTktDSVFUS003TldFTS_SAWRodHRwczovL3d3dy5jaG9zdW4uY29tL2Vjb25vbXkvZWNvbm9teV9nZW5lcmFsLzIwMjQvMDIvMTUvQzVTU1RLV0VZNUJYSk5LQ0lRVEtNN05XRU0vP291dHB1dFR5cGU9YW1w?oc=5",
+        "source": "조선일보",
+        "date": "Thu, 15 Feb 2024 09:55:00 GMT",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://images.chosun.com/resizer/CDD3xUMPLA9YUi-GQLy5D1d8GoA=/600x315/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGWQD4D4LUL6WW3RC7PSCIINV4.jpg"
+          }
+        ]
+      },
+      {
+        "title": "당첨 안 된 로또 구매 비용 돌려준다고?…‘보이스피싱’ 주의 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL1NvY2lldHkvYXJ0aWNsZS9hbGwvMjAyNDAyMTUvMTIzNTMwNDE4LzLSATdodHRwczovL3d3dy5kb25nYS5jb20vbmV3cy9hbXAvYWxsLzIwMjQwMjE1LzEyMzUzMDQxOC8y?oc=5",
+        "source": "동아일보",
+        "date": "Thu, 15 Feb 2024 02:24:00 GMT",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://dimg.donga.com/a/1200/0/95/5/wps/NEWS/IMAGE/2024/02/15/123530364.2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "BNK경남은행, 외화송금 보이스피싱 피해 막아 - 울산매일",
+        "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lml1c20uY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMzQ0MDPSAT1odHRwczovL3d3dy5pdXNtLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0xMDM0NDAz?oc=5",
+        "source": "울산매일",
+        "date": "Thu, 15 Feb 2024 05:48:32 GMT",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://cdn.iusm.co.kr/news/thumbnail/202402/1034403_583437_556_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "당첨 안 된 복권, 코인으로 환급해 준다?…'보이스피싱' 주의보 - MSN",
+        "link": "https://news.google.com/rss/articles/CBMijgJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL21vbmV5L3RvcHN0b3JpZXMvJUVCJThCJUI5JUVDJUIyJUE4LSVFQyU5NSU4OC0lRUIlOTAlOUMtJUVCJUIzJUI1JUVBJUI2JThDLSVFQyVCRCU5NCVFQyU5RCVCOCVFQyU5QyVCQyVFQiVBMSU5Qy0lRUQlOTklOTglRUElQjglODklRUQlOTUlQjQtJUVDJUE0JTgwJUVCJThCJUE0LSVFQiVCMyVCNCVFQyU5RCVCNCVFQyU4QSVBNCVFRCU5NCVCQyVFQyU4QiVCMS0lRUMlQTMlQkMlRUMlOUQlOTglRUIlQjMlQjQvYXItQkIxaWlubW7SAQA?oc=5",
+        "source": "MSN",
+        "date": "Thu, 15 Feb 2024 04:13:46 GMT"
+      },
+      {
+        "title": "이자환급·대환대출 빙자한 보이스피싱 주의…'소비자경보' 발령 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9hcnRpY2xlLzIwMjQwMjE1NzA0MFnSASpodHRwczovL3d3dy5oYW5reXVuZy5jb20vYW1wLzIwMjQwMjE1NzA0MFk?oc=5",
+        "source": "한국경제",
+        "date": "Thu, 15 Feb 2024 10:28:25 GMT"
+      }
+    ]
+  }

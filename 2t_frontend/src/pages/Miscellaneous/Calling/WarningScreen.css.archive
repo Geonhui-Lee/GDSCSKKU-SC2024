@@ -1,0 +1,169 @@
+/* CallScreen.css */
+
+.call-screen-content {
+  padding-top: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  background-color: #FFF9C4; /* light yellow color */
+  color: black;
+  text-align: center;
+}
+
+.call-info {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF9C4; /* light yellow color */
+}
+
+.call-info h2 {
+  font-size: 2.2em;
+  margin: 0;
+  color: #d33; /* Red color for the phishing warning */
+}
+
+.call-info h3 {
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.voice-phishing-alert {
+  /* Custom styles for the voice phishing alert */
+}
+
+/* Header styles */
+ion-header {
+  background: transparent;
+  --ion-background-color: none;
+  --ion-color-base: transparent;
+}
+
+ion-toolbar {
+  --background: transparent;
+}
+
+/* Title styles */
+ion-title {
+  color: black;
+  font-size: 1.2em;
+}
+
+/* Footer styles */
+ion-footer {
+  background-color: white;
+}
+
+ion-toolbar {
+  --background: transparent;
+  padding: 0.5em;
+}
+
+/* Button styles */
+ion-button {
+  --background: transparent;
+  --background-activated: rgba(0, 0, 0, 0.1); /* Light feedback on tap */
+  --background-hover: rgba(0, 0, 0, 0.05); /* Light feedback on hover */
+}
+
+
+/* CallScreen.css */
+
+/* Other styles ... */
+
+/* Footer toolbar styles */
+.footer-toolbar {
+  justify-content: center; /* Center buttons horizontally */
+  padding: 1em 0; /* Add some padding at the top and bottom */
+}
+
+.footer-buttons {
+  display: flex;
+  justify-content: center; /* Center buttons horizontally */
+}
+
+ion-footer {
+  --min-height: 100px; /* Set a minimum height for the footer */
+  align-items: center; /* Center content vertically */
+  display: flex;
+}
+
+/* Button styles */
+ion-button {
+  margin: 0 10px; /* Add some space between buttons */
+}
+
+/* Adjust button icon size if necessary */
+ion-icon {
+  font-size: 2.5em; /* Increase icon size */
+}
+
+
+/* You might need to adjust the colors and sizes based on the actual app design */
+/* CallScreen.css */
+
+/* Other styles ... */
+
+/* Footer toolbar styles */
+.footer-toolbar {
+  justify-content: center; /* Center buttons horizontally */
+  padding: 1em 0; /* Add some padding at the top and bottom */
+}
+
+.footer {
+  justify-content: center; /* Center buttons horizontally */
+}
+
+.footer-buttons {
+  display: flex;
+  justify-content: center; /* Center buttons horizontally */
+}
+
+ion-footer {
+  --min-height: 100px; /* Set a minimum height for the footer */
+  align-items: center; /* Center content vertically */
+  display: flex;
+}
+
+/* Button styles */
+ion-button {
+  margin: 0 10px; /* Add some space between buttons */
+}
+
+
+.call-end-button-container {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  padding: 20px; /* Add some padding around the button */
+  background: transparent; /* Ensure the background is transparent */
+}
+
+/* Call end button styles */
+.call-end-button {
+  --background: #ff3b30; /* iOS red color for the call end button */
+  --border-radius: 50%; /* Make the button circular */
+  width: 70px; /* Set a fixed width */
+  height: 70px; /* Set a fixed height */
+  display: flex;
+  justify-content: center; /* Center the icon horizontally */
+  align-items: center; /* Center the icon vertically */
+}
+
+.call-end-button ion-icon {
+  font-size: 2.5em; /* Set the size of the icon */
+  color: white; /* Set the icon color to white */
+}
+
+/* Footer buttons styles */
+.footer-buttons {
+  display: flex;
+  justify-content: space-around; /* This will distribute space around items equally */
+}
+
+/* Individual button style */
+.footer-buttons ion-button {
+  margin: 0 10px; /* This adds horizontal space between buttons */
+}

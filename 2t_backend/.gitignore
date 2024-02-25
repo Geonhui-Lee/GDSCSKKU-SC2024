@@ -1,0 +1,6 @@
+# pycache
+**/__pycache__/**
+**/.venv/**
+**/.cache/**
+.env
+**/model/teletect_kobert_train.pt

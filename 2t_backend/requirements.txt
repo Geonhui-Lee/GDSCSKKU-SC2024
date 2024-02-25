@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+feedparser
+google-cloud-aiplatform>=1.38
+google-cloud-speech
+beautifulsoup4
+pydantic
+python-multipart
+python-dotenv
+boto3 <=1.15.18
+gluonnlp >= 0.6.0, <=0.10.0
+mxnet >= 1.4.0, <=1.7.0.post2
+sentencepiece >= 0.1.6, <=0.1.96
+torch >= 1.7.0, <=1.10.1
+transformers
+pandas
+scikit-learn
+konlpy
+numpy==1.23.1
+git+https://git@github.com/SKTBrain/KoBERT.git@master

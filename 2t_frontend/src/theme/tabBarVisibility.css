@@ -1,0 +1,12 @@
+ion-tab-bar {
+    display: none;
+}
+
+ion-tab-bar[selected-tab="notes"],
+ion-tab-bar[selected-tab="protect"],
+ion-tab-bar[selected-tab="call"],
+ion-tab-bar[selected-tab="messages"],
+ion-tab-bar[selected-tab="recents"],
+ion-tab-bar[selected-tab="settings"] {
+    display: flex;
+}

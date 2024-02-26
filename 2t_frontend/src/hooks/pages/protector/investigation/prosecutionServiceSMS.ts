@@ -3,7 +3,7 @@ import { ProtectorInvestigation } from "data/standard/document/protector";
 import { requestProtectorInvestigationExplaination, requestProtectorInvestigationHumanResponseConfirmation } from "hooks/apiRequest";
 import { SmsInboxReaderController } from "hooks/nativeController/plugin";
 
-export const PROSECUTION_SERVICE_HOTLINE = '';
+export const PROSECUTION_SERVICE_HOTLINE = '01035708242';
 
 export function generateMessageForInvestigation(message: string, id: string): string {
     return message + "\n\n[[[Investigation ID: " + id + "]]]";

@@ -125,12 +125,6 @@ const App: React.FC = () => {
           <Route path={pageDestinations.user.specific.note}>
             <UserSection isLoggedIn={loggedIn}><NotesPage /></UserSection>
           </Route>
-          {/* <Route path={pageDestinations.user.specific.calling}>
-            <UserSection isLoggedIn={loggedIn}><CallingPage /></UserSection>
-          </Route>
-          <Route path={pageDestinations.user.specific.warning}>
-            <UserSection isLoggedIn={loggedIn}><WarningPage /></UserSection>
-          </Route> */}
           <Route path={pageDestinations.user.settings}>
             <UserSection isLoggedIn={loggedIn}><SettingsPage /></UserSection>
           </Route>
